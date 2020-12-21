@@ -1,1 +1,1 @@
-print('Hello Cancun')
+print('Hello Cancun travel cancelled')
